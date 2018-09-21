@@ -3,7 +3,7 @@ a project using DHT11 DS18B20 Sensor and can be configured by smart config.
 based on Aliyun IOT.
 
 硬件平台：
-安信可：ESP-WROOM-32（）
+安信可：ESP-WROOM-32
 
 编译环境：
 ubuntu 16.04 / Eclipse
