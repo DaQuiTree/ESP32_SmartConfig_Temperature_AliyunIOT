@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>esp-aliyun</name>
+	<name>mqtt_ssl</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -25,24 +25,9 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>ALIYUN_IOT</name>
+			<name>esp-idf</name>
 			<type>2</type>
-			<locationURI>ALIYUN_IOT</locationURI>
-		</link>
-		<link>
-			<name>ESP_IDF</name>
-			<type>2</type>
-			<locationURI>ESP_IDF</locationURI>
+			<location>/home/daquitree/esp/esp-idf</location>
 		</link>
 	</linkedResources>
-	<variableList>
-		<variable>
-			<name>ALIYUN_IOT</name>
-			<value>file:/home/daquitree/esp/esp-aliyun/components/aliyun/iotkit-embedded</value>
-		</variable>
-		<variable>
-			<name>ESP_IDF</name>
-			<value>file:/home/daquitree/esp/esp-idf</value>
-		</variable>
-	</variableList>
 </projectDescription>
